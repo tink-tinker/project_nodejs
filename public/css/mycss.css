@@ -1,0 +1,64 @@
+
+
+*{
+    box-sizing: border-box;
+    align-items: center;
+   
+    }
+    h1{
+    font-family: 'Poppins',sans-serif, 'arial';
+    font-weight: 1000;
+    color: white;
+    text-align: center;
+    }
+    h4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color:gainsboro;
+    text-align: center;
+    }
+    input[type=text],[type=email],[type=tel]{
+    width: 90%;
+    padding: 12px;
+    border:1px solid black;
+    border-radius: 4px;
+    resize:vertical
+    }
+    
+    
+     
+    label{
+    color:white;
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    }
+    .container{
+    align-items: center;
+    background-color: rgb(73, 71, 71);
+    border-radius: 5px;
+    padding: 70px;
+    margin-top: 30px;
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-bottom: 190px;
+    }
+    label{
+        color: white;
+    }
+    
+    .sbutton{
+     
+    padding: 7px 35px;
+    border-radius: 60px;
+    display:inline-block;
+    background-color: #4b8cfb;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    
+    }
+    .sbutton:hover{
+    background-color: rgb(154, 159, 181);
+    }
+    
+  
